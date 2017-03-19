@@ -1,0 +1,13 @@
+C:\Users\ST01\Desktop\Flaapy Bird_vb\bin\Debug\Flaapy Bird.exe
+C:\Users\ST01\Desktop\Flaapy Bird_vb\bin\Debug\Flaapy Bird.pdb
+C:\Users\ST01\Desktop\Flaapy Bird_vb\bin\Debug\Flaapy Bird.xml
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy_Bird_vb.begin.resources
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy_Bird_vb.main.resources
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy_Bird_vb.Form2.resources
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy_Bird_vb.Resources.resources
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy Bird.exe
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy Bird.xml
+C:\Users\ST01\Desktop\Flaapy Bird_vb\obj\x86\Debug\Flaapy Bird.pdb
